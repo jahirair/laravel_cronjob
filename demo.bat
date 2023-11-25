@@ -1,0 +1,1 @@
+G:\xampp\php\php.exe G:\xampp\htdocs\cronjob\artisan schedule:run
